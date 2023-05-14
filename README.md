@@ -10,7 +10,6 @@ Saiba mais em meu LinkedIn => linkedin.com/davifernandez/
 ## Em aprendizado
 - React.js;
 - Node.js;
-- Sequelize;
 
 (Readme ainda em montagem =D)
 
