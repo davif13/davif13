@@ -6,9 +6,9 @@ Saiba mais em meu LinkedIn => linkedin.com/davifernandez/
 - HTML;
 - CSS;
 - JavaScript;
+- React.js;
 
 ## Em aprendizado
-- React.js;
 - Node.js;
 
 (Readme ainda em montagem =D)
