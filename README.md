@@ -6,10 +6,12 @@ Saiba mais em meu LinkedIn => linkedin.com/davifernandez/
 - HTML;
 - CSS;
 - JavaScript;
-- React.js;
+- React e bibliotecas relacionadas (Redux, Styled-Components, Axios, React Query, Formik/Yup, Chakra UI);
+- SQL (PostGreSQL)
+- Node.js com Express para criação de API
 
 ## Em aprendizado
-- Node.js;
+- MongoDB;
 
 (Readme ainda em montagem =D)
 
